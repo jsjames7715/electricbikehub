@@ -299,6 +299,11 @@ export const guideCategories: GuideCategory[] = [
     description: "Phone repair tutorials, PC troubleshooting flowcharts, and soldering basics."
   },
   {
+    id: "cybersecurity",
+    name: "Cybersecurity",
+    description: "Penetration testing guides, threat hunting, and security research resources."
+  },
+  {
     id: "downloads",
     name: "Fun Downloads",
     description: "Wallpapers, 3D print files, network diagrams, and other useful goodies."
@@ -386,6 +391,60 @@ export const guideItems: GuideItem[] = [
     fileType: "ZIP",
     fileSize: "12 MB",
     downloadUrl: "#"
+  },
+  {
+    id: "10",
+    title: "Google Dorking Guide",
+    description: "Master advanced Google search operators for OSINT and security research. Learn how to find exposed credentials, vulnerable sites, and hidden information.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "283 KB",
+    downloadUrl: "/pdfs/google-dorking-guide.pdf"
+  },
+  {
+    id: "11",
+    title: "AI Pentesting with HexStrike & KALI MCP",
+    description: "Watch an AI pentest a lab environment in just 45 minutes. Learn how to use HexStrike AI and KALI MCP to identify vulnerabilities and gain shell access.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "439 KB",
+    downloadUrl: "/pdfs/I Let AI Pentest my lab for 45 Minutes. HexStrike AI and KALI MCP to get a shell after only 20.pdf"
+  },
+  {
+    id: "12",
+    title: "Public Information Gathering",
+    description: "Comprehensive guide to OSINT techniques for gathering public information. Covers passive reconnaissance, social media profiling, and metadata analysis.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "416 KB",
+    downloadUrl: "/pdfs/Public info gathering.pdf"
+  },
+  {
+    id: "13",
+    title: "SOCKS vs HTTPS Proxies for Beginners",
+    description: "Understand the differences between SOCKS and HTTPS proxies. Learn when to use each type, security implications, and setup instructions for various use cases.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "332 KB",
+    downloadUrl: "/pdfs/SOCKS vs HTTPS Proxies For Beginners.pdf"
+  },
+  {
+    id: "14",
+    title: "The Fastest Way To Clean Your Crypto",
+    description: "Step-by-step guide to securely cleaning cryptocurrency wallets and removing traces. Essential for privacy-conscious crypto users and security researchers.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "442 KB",
+    downloadUrl: "/pdfs/The Fastest Way To Clean Your Crypto.pdf"
+  },
+  {
+    id: "15",
+    title: "ARP Poisoning Threat Hunting",
+    description: "Learn how to detect and investigate ARP poisoning attacks in network traffic. Includes Wireshark filters, detection techniques, and threat hunting methodologies.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "1.7 MB",
+    downloadUrl: "/pdfs/When ARP Goes Wrong_ Threat Hunting ARP Poisoning in Network Traffic.pdf"
   }
 ];
 
