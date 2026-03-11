@@ -856,6 +856,96 @@ export const pdfItems: PdfItem[] = [
     description: "Covers cryptography concepts including symmetric (DES, AES, 3DES) and asymmetric (RSA, DSA, Diffie-Hellman) encryption, hashing algorithms (MD5, SHA), PKI and certificate authorities, digital signatures, email encryption (PGP, S/MIME), disk encryption, SSL/TLS, cryptanalysis techniques, and cryptographic attack methods. Essential foundations for understanding modern security.",
     fileSize: "1.4 MB",
     downloadUrl: "https://files.catbox.moe/5vqydc.pdf"
+  },
+  {
+    id: "56",
+    title: "Apple.com Reroutes Analysis",
+    description: "An in-depth analysis of how malicious actors exploit Apple.com URL rerouting. Learn to identify and defend against these sophisticated phishing techniques.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "1 MB",
+    downloadUrl: "https://files.catbox.moe/dhti1i.pdf"
+  },
+  {
+    id: "57",
+    title: "Creating Phishing Pages",
+    description: "Educational overview of phishing page creation techniques. Essential reading for security professionals to understand attacker methodologies and build better defenses.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "0.5 MB",
+    downloadUrl: "https://files.catbox.moe/m1zwvg.pdf"
+  },
+  {
+    id: "58",
+    title: "Finding Enrollable Cards",
+    description: "Learn how payment card enrollment systems work and how to identify vulnerabilities. Critical knowledge for blue team defenders and fraud prevention specialists.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "0.4 MB",
+    downloadUrl: "https://files.catbox.moe/hunsxw.pdf"
+  },
+  {
+    id: "59",
+    title: "Gift Carding Fundamentals",
+    description: "Understanding gift card fraud from a security researcher's perspective. Learn to detect, prevent, and investigate gift card abuse in e-commerce systems.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "0.4 MB",
+    downloadUrl: "https://files.catbox.moe/4g64ln.pdf"
+  },
+  {
+    id: "60",
+    title: "NONVNB Carding Methods",
+    description: "Analysis of non-verified payment methods and their security implications. Helps security teams understand fraud vectors and implement better controls.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "0.3 MB",
+    downloadUrl: "https://files.catbox.moe/2z4dsr.pdf"
+  },
+  {
+    id: "61",
+    title: "AI-Powered Phishing (Part 1)",
+    description: "Exploring how AI is transforming phishing attacks and social engineering. Learn to recognize AI-generated phishing content and defend against it.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "0.5 MB",
+    downloadUrl: "https://files.catbox.moe/mybtnp.pdf"
+  },
+  {
+    id: "62",
+    title: "Carding Efficiency Guide",
+    description: "Advanced techniques for fraud detection and prevention. Learn to identify patterns and build more resilient payment systems.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "0.3 MB",
+    downloadUrl: "https://files.catbox.moe/rhjnrz.pdf"
+  },
+  {
+    id: "63",
+    title: "iCloud Relay Privacy Analysis",
+    description: "Technical analysis of Apple's iCloud Relay and its privacy implications. Understand how it works and what data it protects or exposes.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "0.4 MB",
+    downloadUrl: "https://files.catbox.moe/qqbpv0.pdf"
+  },
+  {
+    id: "64",
+    title: "Residential Drop Services",
+    description: "Security research on residential proxy networks and drop services. Learn how attackers obfuscate their identity and how to detect suspicious traffic.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "0.3 MB",
+    downloadUrl: "https://files.catbox.moe/mvsgkr.pdf"
+  },
+  {
+    id: "65",
+    title: "Privacy Tools Impact Analysis",
+    description: "Understanding how privacy tools affect security monitoring and threat detection. Learn to balance user privacy with effective security operations.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "0.3 MB",
+    downloadUrl: "https://files.catbox.moe/s7jj1h.pdf"
   }
 ];
 
