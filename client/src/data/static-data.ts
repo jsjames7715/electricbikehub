@@ -471,7 +471,7 @@ export const guideItems: GuideItem[] = [
     categoryId: "cybersecurity",
     fileType: "PDF",
     fileSize: "442 KB",
-    downloadUrl: "/pdfs/The Fastest Way To Clean Your Crypto.pdf"
+    downloadUrl: "https://files.catbox.moe/d1p7rm.pdf"
   },
   {
     id: "15",
@@ -480,7 +480,7 @@ export const guideItems: GuideItem[] = [
     categoryId: "cybersecurity",
     fileType: "PDF",
     fileSize: "1.7 MB",
-    downloadUrl: "/pdfs/When ARP Goes Wrong_ Threat Hunting ARP Poisoning in Network Traffic.pdf"
+    downloadUrl: "https://files.catbox.moe/hr5ppm.pdf"
   }
 ];
 
