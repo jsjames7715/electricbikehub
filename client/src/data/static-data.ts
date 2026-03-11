@@ -498,14 +498,14 @@ export const pdfItems: PdfItem[] = [
     title: "The Threat Hunter's Cookbook",
     description: "A comprehensive guide to threat hunting by Dr. Ryan Fetterman and Sydney Marrone from Splunk's SURGe team. Packed with step-by-step recipes for threat hunting, covering grouping, anomaly detection, clustering, forecasting, and practical SPL techniques. Great resource for anyone getting into cybersecurity or looking to sharpen their defensive skills.",
     fileSize: "4.4 MB",
-    downloadUrl: "/pdfs/threat-hunters-cookbook.pdf"
+    downloadUrl: "https://files.catbox.moe/hr5ppm.pdf"
   },
   {
     id: "2",
     title: "Real-World Bug Hunting: A Field Guide to Web Hacking",
     description: "By Peter Yaworski. A hands-on guide to finding security vulnerabilities in web applications through real bug bounty examples. Covers open redirects, XSS, SQL injection, SSRF, CSRF, race conditions, IDOR, OAuth flaws, subdomain takeovers, and more. Each chapter breaks down actual disclosed vulnerability reports with clear takeaways. Essential reading for anyone interested in bug bounties or web application security.",
     fileSize: "6.1 MB",
-    downloadUrl: "/pdfs/real-world-bug-hunting.pdf"
+    downloadUrl: "https://files.catbox.moe/7p301c.pdf"
   },
   {
     id: "3",
@@ -820,42 +820,42 @@ export const pdfItems: PdfItem[] = [
     title: "CEH v10 Module 15: SQL Injection",
     description: "In-depth coverage of SQL injection attacks including in-band (error-based, union-based), inferential/blind (boolean, time-based), and out-of-band techniques. Covers SQL query fundamentals, injection tools (sqlmap, Havij), evasion techniques, and defense strategies. Includes practical examples of SELECT, DELETE, UPDATE, and INSERT injection payloads.",
     fileSize: "748 KB",
-    downloadUrl: "/pdfs/ceh-v10-module-15-sql-injection.pdf"
+    downloadUrl: "https://files.catbox.moe/ajj6vk.pdf"
   },
   {
     id: "48",
     title: "CEH v10 Module 16: Hacking Wireless Networks",
     description: "Covers wireless networking concepts (GSM, Wi-Fi, Bluetooth), 802.11 standards, SSID, authentication modes, wireless encryption (WEP, WPA, WPA2), wireless attack techniques (rogue APs, evil twin, deauthentication, cracking), wireless hacking tools (Aircrack-ng), and wireless security best practices. Includes Bluetooth hacking and countermeasures.",
     fileSize: "1.4 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-16-wireless-networks.pdf"
+    downloadUrl: "https://files.catbox.moe/y7oi86.pdf"
   },
   {
     id: "49",
     title: "CEH v10 Module 17: Hacking Mobile Platforms",
     description: "Covers mobile platform attack vectors, OWASP Top 10 Mobile risks, Android and iOS architecture and security models, jailbreaking, rooting, mobile device management (MDM), mobile malware, app sandboxing, reverse engineering mobile apps, and mobile security tools. Addresses threats from open Wi-Fi, Bluetooth, SMS phishing, and malicious apps.",
     fileSize: "1.1 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-17-mobile-platforms.pdf"
+    downloadUrl: "https://files.catbox.moe/5u3l7b.pdf"
   },
   {
     id: "50",
     title: "CEH v10 Module 18: IoT Hacking",
     description: "Covers Internet of Things concepts, IoT architecture (5-layer model), communication models (device-to-device, device-to-cloud, device-to-gateway), IoT technologies and protocols, OWASP IoT Top 10 vulnerabilities, IoT attack surfaces, hacking methodology for IoT devices, and security tools for IoT pentesting. Explores threats to smart homes, industrial systems, and connected devices.",
     fileSize: "856 KB",
-    downloadUrl: "/pdfs/ceh-v10-module-18-iot-hacking.pdf"
+    downloadUrl: "https://files.catbox.moe/2jxr06.pdf"
   },
   {
     id: "51",
     title: "CEH v10 Module 19: Cloud Computing",
     description: "Covers cloud computing fundamentals including IaaS, PaaS, and SaaS models, deployment types (public, private, hybrid, community), NIST reference architecture, cloud security benefits and threats, container technology (Docker, Kubernetes), serverless computing, and cloud pentesting tools. Addresses side-channel attacks, wrapping attacks, and cloud-specific vulnerabilities.",
     fileSize: "1.1 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-19-cloud-computing.pdf"
+    downloadUrl: "https://files.catbox.moe/ghuq6i.pdf"
   },
   {
     id: "52",
     title: "CEH v10 Module 20: Cryptography",
     description: "Covers cryptography concepts including symmetric (DES, AES, 3DES) and asymmetric (RSA, DSA, Diffie-Hellman) encryption, hashing algorithms (MD5, SHA), PKI and certificate authorities, digital signatures, email encryption (PGP, S/MIME), disk encryption, SSL/TLS, cryptanalysis techniques, and cryptographic attack methods. Essential foundations for understanding modern security.",
     fileSize: "1.4 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-20-cryptography.pdf"
+    downloadUrl: "https://files.catbox.moe/5vqydc.pdf"
   }
 ];
 
