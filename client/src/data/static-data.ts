@@ -399,7 +399,7 @@ export const guideItems: GuideItem[] = [
     categoryId: "cybersecurity",
     fileType: "PDF",
     fileSize: "283 KB",
-    downloadUrl: "/pdfs/google-dorking-guide.pdf"
+    downloadUrl: "https://files.catbox.moe/1a6ot5.pdf"
   },
   {
     id: "11",
@@ -408,7 +408,7 @@ export const guideItems: GuideItem[] = [
     categoryId: "cybersecurity",
     fileType: "PDF",
     fileSize: "439 KB",
-    downloadUrl: "/pdfs/I Let AI Pentest my lab for 45 Minutes. HexStrike AI and KALI MCP to get a shell after only 20.pdf"
+    downloadUrl: "https://files.catbox.moe/sos649.pdf"
   },
   {
     id: "12",
@@ -417,7 +417,7 @@ export const guideItems: GuideItem[] = [
     categoryId: "cybersecurity",
     fileType: "PDF",
     fileSize: "416 KB",
-    downloadUrl: "/pdfs/Public info gathering.pdf"
+    downloadUrl: "https://files.catbox.moe/rrewjv.pdf"
   },
   {
     id: "13",
@@ -426,7 +426,43 @@ export const guideItems: GuideItem[] = [
     categoryId: "cybersecurity",
     fileType: "PDF",
     fileSize: "332 KB",
-    downloadUrl: "/pdfs/SOCKS vs HTTPS Proxies For Beginners.pdf"
+    downloadUrl: "https://files.catbox.moe/07loxm.pdf"
+  },
+  {
+    id: "14",
+    title: "The Fastest Way To Clean Your Crypto",
+    description: "Step-by-step guide to securely cleaning cryptocurrency wallets and removing traces. Essential for privacy-conscious crypto users and security researchers.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "442 KB",
+    downloadUrl: "https://files.catbox.moe/d1p7rm.pdf"
+  },
+  {
+    id: "15",
+    title: "ARP Poisoning Threat Hunting",
+    description: "Learn how to detect and investigate ARP poisoning attacks in network traffic. Includes Wireshark filters, detection techniques, and threat hunting methodologies.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "1.7 MB",
+    downloadUrl: "https://files.catbox.moe/hr5ppm.pdf"
+  },
+  {
+    id: "12",
+    title: "Public Information Gathering",
+    description: "Comprehensive guide to OSINT techniques for gathering public information. Covers passive reconnaissance, social media profiling, and metadata analysis.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "416 KB",
+    downloadUrl: "https://files.catbox.moe/rrewjv.pdf"
+  },
+  {
+    id: "13",
+    title: "SOCKS vs HTTPS Proxies for Beginners",
+    description: "Understand the differences between SOCKS and HTTPS proxies. Learn when to use each type, security implications, and setup instructions for various use cases.",
+    categoryId: "cybersecurity",
+    fileType: "PDF",
+    fileSize: "332 KB",
+    downloadUrl: "https://files.catbox.moe/07loxm.pdf"
   },
   {
     id: "14",
@@ -483,42 +519,42 @@ export const pdfItems: PdfItem[] = [
     title: "Honeypots and Routers: Collecting Internet Attacks",
     description: "By Mohssen Mohammed and Habib-ur Rehman. Covers computer networks, information security fundamentals, intrusion detection systems, malware analysis, and honeypot deployment. Includes a deep dive into double-honeynet architectures for collecting zero-day polymorphic worms. Great for understanding how defenders set traps to study real-world attacks.",
     fileSize: "2.4 MB",
-    downloadUrl: "/pdfs/honeypots-and-routers.pdf"
+    downloadUrl: "https://files.catbox.moe/6r5brz.pdf"
   },
   {
     id: "5",
     title: "CompTIA Security+ Certification Guide (SY0-501)",
     description: "By Ian Neil. A comprehensive study guide for the CompTIA Security+ SY0-501 exam covering security fundamentals, risk analysis, identity and access management, network components, cryptography, threat management, and more. Includes review questions and hands-on exercises. Perfect for anyone preparing for Security+ certification.",
     fileSize: "13 MB",
-    downloadUrl: "/pdfs/comptia-security-plus.pdf"
+    downloadUrl: "https://files.catbox.moe/m9s40v.pdf"
   },
   {
     id: "6",
     title: "Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali",
     description: "By OccupyTheWeb. An excellent starting point for aspiring hackers and pentesters. Covers Linux fundamentals using Kali Linux, including text manipulation, file permissions, process management, bash scripting, Python scripting, networking, wireless security, anonymity with Tor and VPNs, and managing the Linux kernel. Practical exercises throughout.",
     fileSize: "7.3 MB",
-    downloadUrl: "/pdfs/linux-basics-for-hackers.pdf"
+    downloadUrl: "https://files.catbox.moe/lcexr4.pdf"
   },
   {
     id: "7",
     title: "Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort",
     description: "By Michael Rash. A thorough guide to building and managing Linux firewalls using iptables, with advanced coverage of attack detection using psad and fwsnort. Covers network, transport, and application layer attacks, port scan detection, Snort rule translation, single packet authorization, and log visualization. Essential for Linux network security.",
     fileSize: "4.1 MB",
-    downloadUrl: "/pdfs/linux-firewalls.pdf"
+    downloadUrl: "https://files.catbox.moe/7nb5bx.pdf"
   },
   {
     id: "8",
     title: "Foundations of Python Network Programming",
     description: "A comprehensive guide to network programming with Python. Covers sockets, HTTP, email protocols, SSH, FTP, and building networked applications. Ideal for developers looking to understand how network protocols work under the hood and build robust network tools with Python.",
     fileSize: "7.9 MB",
-    downloadUrl: "/pdfs/foundations-python-network-programming.pdf"
+    downloadUrl: "https://files.catbox.moe/6ck9pm.pdf"
   },
   {
     id: "9",
     title: "Gray Hat Hacking",
     description: "A comprehensive guide covering ethical hacking, penetration testing, and vulnerability analysis. Explores the gray area between white hat and black hat hacking, with practical techniques for finding and exploiting vulnerabilities while staying within legal and ethical boundaries. Covers exploit development, reverse engineering, and advanced attack techniques.",
     fileSize: "13 MB",
-    downloadUrl: "/pdfs/gray-hat-hacking.pdf"
+    downloadUrl: "https://files.catbox.moe/1fq7iz.pdf"
   },
   {
     id: "10",
@@ -532,252 +568,252 @@ export const pdfItems: PdfItem[] = [
     title: "Practical Mobile Forensics (3rd Edition)",
     description: "By Rohit Tamma, Oleg Skulkin, Heather Mahalik, and Satish Bommisetty. A hands-on guide to mastering mobile forensics for iOS, Android, and Windows Phone platforms. Covers evidence extraction, data acquisition methods, filesystem analysis, app forensics, and working with forensic tools. Essential for digital forensics professionals.",
     fileSize: "18 MB",
-    downloadUrl: "/pdfs/practical-mobile-forensics.pdf"
+    downloadUrl: "https://files.catbox.moe/qwl9wd.pdf"
   },
   {
     id: "12",
     title: "Crypto 101",
     description: "By Laurens Van Houtven (lvh). An introductory course on cryptography for programmers. Starts with simple primitives like XOR and block ciphers, then builds up to complete cryptosystems including TLS, GPG, and OTR. Covers key exchange, public-key encryption, hash functions, MACs, signature algorithms, and common attacks. Clear and practical.",
     fileSize: "16 MB",
-    downloadUrl: "/pdfs/crypto-101.pdf"
+    downloadUrl: "https://files.catbox.moe/cm8rd4.pdf"
   },
   {
     id: "13",
     title: "Metasploit Penetration Testing Cookbook (3rd Edition)",
     description: "By Daniel Teixeira, Abhinav Singh, and Monika Agarwal. A recipe-based guide to mastering Metasploit for penetration testing. Covers information gathering, scanning, exploitation, post-exploitation, antivirus evasion, firewall bypassing, and integration with tools like Nmap, Nessus, and OpenVAS. Packed with practical step-by-step instructions.",
     fileSize: "19 MB",
-    downloadUrl: "/pdfs/metasploit-pentesting-cookbook.pdf"
+    downloadUrl: "https://files.catbox.moe/ra65n2.pdf"
   },
   {
     id: "14",
     title: "SANS SOC Survey 2025",
     description: "By Christopher Crowley. The annual SANS Institute survey covering how security operations centers are built, staffed, and run. Key findings include 79% of SOCs operating 24/7, 85% using endpoint alerts as primary triggers, 42% using AI/ML out-of-box with no customization, and staffing insights showing 2-10 people as the most common SOC size with 3-5 year average tenure.",
     fileSize: "2.1 MB",
-    downloadUrl: "/pdfs/sans-soc-survey-2025.pdf"
+    downloadUrl: "https://files.catbox.moe/hp5ggh.pdf"
   },
   {
     id: "15",
     title: "100 SQL Commands",
     description: "A compact reference covering 100 essential SQL commands for database management. Includes queries for data manipulation, table creation, joins, aggregation, indexing, and administration. Perfect quick-reference cheat sheet for developers and database administrators.",
     fileSize: "1.2 MB",
-    downloadUrl: "/pdfs/100-sql-commands.pdf"
+    downloadUrl: "https://files.catbox.moe/rcuqdh.pdf"
   },
   {
     id: "16",
     title: "101 Linux Commands - Open Source eBook",
     description: "A comprehensive open-source ebook covering 101 essential Linux commands from ls and cd to advanced tools like gzip, awk, sed, iptables, and systemctl. Each command includes syntax, options, and practical examples. An excellent desktop reference for system administrators, developers, and anyone working in a Linux environment.",
     fileSize: "768 KB",
-    downloadUrl: "/pdfs/101-linux-commands.pdf"
+    downloadUrl: "https://files.catbox.moe/1mrgat.pdf"
   },
   {
     id: "17",
     title: "Cybersecurity Incident Disclosures: A 13-Year Review (2024)",
     description: "A thorough analysis of cybersecurity incident disclosures by public companies from 2011-2023. Covers trends in incident types, records accessed, information compromised, costs, and discovery timelines. Key finding: 196 incidents disclosed in 2023 (all-time high), with ransomware rising to 20% and average discovery window dropping to 38 days.",
     fileSize: "5.5 MB",
-    downloadUrl: "/pdfs/cybersecurity-incident-disclosures-2024.pdf"
+    downloadUrl: "https://files.catbox.moe/ytw9tb.pdf"
   },
   {
     id: "18",
     title: "DoD Cybersecurity-Related Policies and Issuances (2024)",
     description: "A comprehensive reference chart of Department of Defense cybersecurity policies, mapped across NIST CSF categories including Organize, Enable, Anticipate, Prepare, and Authorities. Covers FIPS standards, NIST Special Publications, CNSSP/CNSSI directives, and DoD Instructions for building and operating a trusted DoDIN.",
     fileSize: "724 KB",
-    downloadUrl: "/pdfs/dod-cybersecurity-policies-2024.pdf"
+    downloadUrl: "https://files.catbox.moe/s8mxq2.pdf"
   },
   {
     id: "19",
     title: "OSINT Investigation Report - SDR Frequency Analysis",
     description: "An OSINT investigation report analyzing suspicious social media activity surrounding a major incident. Demonstrates open-source intelligence gathering techniques including social media profiling, phone number tracking, and digital footprint analysis. Useful case study for understanding practical OSINT methodology.",
     fileSize: "120 KB",
-    downloadUrl: "/pdfs/osint-investigation-report.pdf"
+    downloadUrl: "https://files.catbox.moe/5gdpyu.pdf"
   },
   {
     id: "20",
     title: "Active Man-in-the-Middle Detection for the Signal Protocol",
     description: "An academic paper from the University of Oxford presenting an in-band active MitM detection method for the Signal Protocol. Addresses the threat of government coercion and mass surveillance by automating key confirmation without user intervention. Includes proof-of-concept implementation based on the open-source Signal library with minimal performance overhead.",
     fileSize: "1.2 MB",
-    downloadUrl: "/pdfs/active-mitm-signal-protocol.pdf"
+    downloadUrl: "https://files.catbox.moe/lhte81.pdf"
   },
   {
     id: "21",
     title: "Advanced API Security: OAuth 2.0 and Beyond",
     description: "By Prabath Siriwardena (Apress). A deep dive into securing APIs from HTTP Basic/Digest Authentication through OAuth 1.0, OAuth 2.0, OpenID Connect, UMA, and JWT/JWS/JWE. Covers identity delegation, federation, MAC tokens, and security patterns with real-world examples from Google, Twitter, Facebook, and Salesforce APIs.",
     fileSize: "4.8 MB",
-    downloadUrl: "/pdfs/advanced-api-security.pdf"
+    downloadUrl: "https://files.catbox.moe/nske6k.pdf"
   },
   {
     id: "22",
     title: "Advancing Malicious Website Identification: A Machine Learning Approach",
     description: "An academic paper proposing 77 features and a dataset of 441,701 samples across 9 website classifications to train ML models for malicious website detection. Achieves 95.89% accuracy classifying phishing, spam, malware hosting, C2 servers, and more. Details the top 10 most relevant features including URL embeddings and content-based analysis.",
     fileSize: "864 KB",
-    downloadUrl: "/pdfs/malicious-website-identification-ml.pdf"
+    downloadUrl: "https://files.catbox.moe/uwk6g9.pdf"
   },
   {
     id: "23",
     title: "Advanced Python for Cybersecurity",
     description: "Techniques in malware analysis, exploit development, and custom tool creation. Covers network traffic analysis, web security scanning, incident response, forensic analysis, working with threat intelligence APIs, data encryption, cryptography, and ethical hacking with Python. Each chapter blends theory with hands-on implementation.",
     fileSize: "1.6 MB",
-    downloadUrl: "/pdfs/advanced-python-cybersecurity.pdf"
+    downloadUrl: "https://files.catbox.moe/nzxj4d.pdf"
   },
   {
     id: "24",
     title: "GPS Spoofing Attacks on Wi-Fi 6E AFC Systems",
     description: "An academic paper demonstrating GPS spoofing attacks against the FCC-mandated Automated Frequency Coordination system used in Wi-Fi 6E and Wi-Fi 7. Shows how inexpensive off-the-shelf radio equipment can manipulate AP locations to gain unauthorized spectrum access, cause interference to mission-critical incumbent services, or disable APs entirely.",
     fileSize: "4.1 MB",
-    downloadUrl: "/pdfs/gps-spoofing-wifi6e-afc.pdf"
+    downloadUrl: "https://files.catbox.moe/i6nfcr.pdf"
   },
   {
     id: "25",
     title: "OWASP Multi-Agentic System Threat Modelling Guide",
     description: "The OWASP GenAI Security Project guide for threat modeling multi-agent AI systems using the MAESTRO framework. Covers distributed autonomy, inter-agent communication, emergent behavior, and seven architectural layers of threats. Includes detailed case studies on RPA expense agents, Eliza OS, and Anthropic's MCP Protocol.",
     fileSize: "2.3 MB",
-    downloadUrl: "/pdfs/owasp-agentic-ai-threat-modelling.pdf"
+    downloadUrl: "https://files.catbox.moe/safra4.pdf"
   },
   {
     id: "26",
     title: "AMD Sinkclose: Universal SMM Privilege Escalation",
     description: "By Enrique Nissim and Krzysztof Okupski (IOActive). A presentation on a universal privilege escalation vulnerability in AMD processors targeting System Management Mode (SMM). Covers SMM security architecture, TSEG region protection, remapping attacks, and exploit development techniques for achieving the highest execution privilege level on x86 systems.",
     fileSize: "3.1 MB",
-    downloadUrl: "/pdfs/amd-sinkclose-smm-escalation.pdf"
+    downloadUrl: "https://files.catbox.moe/3w8tsp.pdf"
   },
   {
     id: "27",
     title: "AndroCon: Conning Location Services in Android",
     description: "An academic paper from IIT Delhi demonstrating how semi-processed GPS data (39 features) accessible to Android apps since Android 7 can be used as a covert channel for ambient sensing, human activity recognition, and indoor floor mapping with 99%+ accuracy. A comprehensive longitudinal study across 40,000 sq. km.",
     fileSize: "3.8 MB",
-    downloadUrl: "/pdfs/androcon-gps-location-attack.pdf"
+    downloadUrl: "https://files.catbox.moe/0zssl3.pdf"
   },
   {
     id: "28",
     title: "HackerOne Hacker-Powered Security Report 2025/2026 (9th Edition)",
     description: "HackerOne's annual report covering the rise of AI in offensive security. Key stats: 210% increase in valid AI vulnerability reports, $81M total bounty payouts, 84.9K valid reports, and the emergence of bionic hackers combining human creativity with AI speed. Covers AI attack surfaces, prompt injection, MCP security, and industry benchmarks.",
     fileSize: "7.2 MB",
-    downloadUrl: "/pdfs/hackerone-security-report-2025.pdf"
+    downloadUrl: "https://files.catbox.moe/7tle5z.pdf"
   },
   {
     id: "29",
     title: "REST API Penetration Testing Report",
     description: "A professional grey-box REST API penetration testing report template following OWASP methodology. Includes executive summary, severity scoring criteria, detailed findings for medium and low severity issues, business risk analysis, and high-level remediation recommendations. A useful reference for understanding API security assessment deliverables.",
     fileSize: "912 KB",
-    downloadUrl: "/pdfs/api-penetration-testing-report.pdf"
+    downloadUrl: "https://files.catbox.moe/dzueh0.pdf"
   },
   {
     id: "30",
     title: "API Security Cheatsheet: 97 JSON Tests for Authentication",
     description: "A practical cheatsheet with 97 JSON test payloads for testing authentication endpoints. Covers empty credentials, null values, SQL injection, Unicode escapes, control characters, nested objects, type confusion, environment variable injection, and more. Essential reference for API security testing and bug bounty hunting.",
     fileSize: "84 KB",
-    downloadUrl: "/pdfs/api-security-cheatsheet-97-tests.pdf"
+    downloadUrl: "https://files.catbox.moe/1jjx5h.pdf"
   },
   {
     id: "31",
     title: "API Security Checklist (OWASP Top 10)",
     description: "A concise security checklist mapped to the OWASP API Security Top 10. Covers object-level authorization, broken authentication, excessive data exposure, rate limiting, functional-level authorization, mass assignment, security misconfiguration, injection, improper asset management, and insufficient logging and monitoring.",
     fileSize: "24 KB",
-    downloadUrl: "/pdfs/api-security-checklist.pdf"
+    downloadUrl: "https://files.catbox.moe/3m20q8.pdf"
   },
   {
     id: "32",
     title: "API Security Quick Audit Checklist",
     description: "A quick-reference audit checklist by CYTAD for evaluating API security posture. Designed for rapid security assessments covering authentication, authorization, input validation, rate limiting, and common API vulnerability patterns. Compact format ideal for printing or keeping on hand during security reviews.",
     fileSize: "1.7 MB",
-    downloadUrl: "/pdfs/api-security-quick-audit.pdf"
+    downloadUrl: "https://files.catbox.moe/gshzmx.pdf"
   },
   {
     id: "33",
     title: "APIs Fuzzing for Bug Bounty",
     description: "A comprehensive guide to API fuzzing techniques for bug bounty hunters. Covers REST, GraphQL, and SOAP APIs with tools, wordlists, common vulnerabilities (IDOR, BOLA, injection, race conditions), endpoint bypass techniques, and practical checklists for access, input, processing, and output testing. Packed with actionable tips and tool links.",
     fileSize: "200 KB",
-    downloadUrl: "/pdfs/apis-fuzzing-bug-bounty.pdf"
+    downloadUrl: "https://files.catbox.moe/sps8yf.pdf"
   },
   {
     id: "34",
     title: "Bug Bounty Playbook v1",
     description: "By Ghostlulz (Alex Thomas). A complete bug bounty methodology covering infrastructure setup, organization workflows, knowledge base building, platform selection, and detailed recon and exploit workflows. Includes traditional, GitHub, cloud, Google dorking, and leaked credentials reconnaissance, plus CVE, CMS, OWASP, and brute force exploit techniques. Essential playbook for anyone serious about bug bounties.",
     fileSize: "9.8 MB",
-    downloadUrl: "/pdfs/bug-bounty-playbook-v1.pdf"
+    downloadUrl: "https://files.catbox.moe/hh3g6o.pdf"
   },
   {
     id: "35",
     title: "Cybersecurity AI: Hacking the AI Hackers via Prompt Injection",
     description: "By Victor Mayoral-Vilches and Per Mannermaa Rynning. Demonstrates how AI-powered cybersecurity tools can be turned against themselves through prompt injection attacks. Presents proof-of-concept exploits against the CAI framework with 100% exploitation success across 14 attack variants, plus a validated four-layer defense architecture achieving complete mitigation. Cutting-edge AI security research.",
     fileSize: "316 KB",
-    downloadUrl: "/pdfs/cybersecurity-ai-prompt-injection.pdf"
+    downloadUrl: "https://files.catbox.moe/ze5oaf.pdf"
   },
   {
     id: "36",
     title: "CAMP: Compositional Amplification Attacks against DNS",
     description: "From USENIX Security 2024 by ETH Zurich researchers. A systematic investigation of application-layer DNS amplification vulnerabilities. Establishes a taxonomy of amplification primitives and discovers a large family of compositional amplification (CAMP) vulnerabilities with message amplification factors reaching thousands. Tested against BIND, Unbound, PowerDNS, and 50+ open resolvers.",
     fileSize: "1.7 MB",
-    downloadUrl: "/pdfs/camp-dns-amplification-attacks.pdf"
+    downloadUrl: "https://files.catbox.moe/dbf2bs.pdf"
   },
   {
     id: "37",
     title: "CCNP Switching Guide",
     description: "By Abhishek Kumar. A comprehensive CCNP-level switching reference covering switching fundamentals, VLANs, trunking and DTP, inter-VLAN routing, VTP, Spanning Tree Protocol (STP/RSTP/MSTP), EtherChannel, switch security (port security, DHCP snooping, DAI), wireless LAN fundamentals, and FHRP redundancy protocols. Packed with configuration examples and troubleshooting commands.",
     fileSize: "5.0 MB",
-    downloadUrl: "/pdfs/ccnp-switching-guide.pdf"
+    downloadUrl: "https://files.catbox.moe/dsfhyy.pdf"
   },
   {
     id: "38",
     title: "CEH v10 Module 00: Introduction & Table of Contents",
     description: "The introduction and complete table of contents for the Certified Ethical Hacker v10 training guide by EC-Council / IPSpecialist. Provides a full overview of all 20 CEH modules, from ethical hacking fundamentals through cryptography. A great starting point to understand the scope and structure of the CEH certification.",
     fileSize: "456 KB",
-    downloadUrl: "/pdfs/ceh-v10-module-00-introduction.pdf"
+    downloadUrl: "https://files.catbox.moe/jeakjs.pdf"
   },
   {
     id: "39",
     title: "CEH v10 Module 01: Introduction to Ethical Hacking",
     description: "Covers information security fundamentals, the CIA triad, real-world data breaches (eBay, Home Depot), essential security terminology, hacking phases, attack types, and ethical hacking concepts. Includes labs on NMAP scanning and NetBIOS enumeration. Foundation module for understanding how and why ethical hacking is performed.",
     fileSize: "3.0 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-01-ethical-hacking.pdf"
+    downloadUrl: "https://files.catbox.moe/zp8yj7.pdf"
   },
   {
     id: "40",
     title: "CEH v10 Module 06: System Hacking",
     description: "Deep dive into system hacking methodology including password cracking (dictionary, brute force, hash injection), privilege escalation, executing applications via trojans and backdoors, hiding files with rootkits and steganography, and covering tracks by clearing logs. Covers both Windows and Linux attack techniques with practical tool examples.",
     fileSize: "8.9 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-06-system-hacking.pdf"
+    downloadUrl: "https://files.catbox.moe/xytns9.pdf"
   },
   {
     id: "41",
     title: "CEH v10 Module 07: Malware Threats",
     description: "Comprehensive coverage of malware including viruses, worms, trojans, ransomware, keyloggers, and spyware. Covers malware propagation methods, trojan construction kits, known trojan ports, infection processes, virus lifecycle, worm analysis, fileless malware, and countermeasures. Includes details on anti-AV evasion techniques and malware analysis approaches.",
     fileSize: "2.6 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-07-malware-threats.pdf"
+    downloadUrl: "https://files.catbox.moe/hdprmu.pdf"
   },
   {
     id: "42",
     title: "CEH v10 Module 08: Sniffing",
     description: "Covers packet sniffing concepts, active vs passive sniffing, hardware protocol analyzers, SPAN port configuration, MAC attacks, DHCP attacks, ARP poisoning, DNS poisoning, MAC spoofing, and sniffing countermeasures. Explains how attackers intercept network traffic and extract credentials from protocols like HTTP, FTP, SMTP, and Telnet.",
     fileSize: "3.0 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-08-sniffing.pdf"
+    downloadUrl: "https://files.catbox.moe/15ugl2.pdf"
   },
   {
     id: "43",
     title: "CEH v10 Module 09: Social Engineering",
     description: "Explores the non-technical side of hacking through social engineering techniques. Covers human-based attacks (impersonation, eavesdropping, shoulder surfing, dumpster diving), computer-based attacks (phishing, spear phishing, whaling), mobile-based attacks, and insider threats. Includes phases of social engineering attacks and practical countermeasures.",
     fileSize: "2.6 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-09-social-engineering.pdf"
+    downloadUrl: "https://files.catbox.moe/4asc2m.pdf"
   },
   {
     id: "44",
     title: "CEH v10 Module 11: Session Hijacking",
     description: "Covers session hijacking concepts including stealing, guessing, and brute-forcing session IDs. Explains application-level and network-level hijacking, TCP/IP hijacking, cross-site scripting (XSS) for session theft, the difference between spoofing and hijacking, and session hijacking tools and countermeasures. Includes practical attack scenarios.",
     fileSize: "1.1 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-11-session-hijacking.pdf"
+    downloadUrl: "https://files.catbox.moe/nhdcd7.pdf"
   },
   {
     id: "45",
     title: "CEH v10 Module 13: Hacking Web Servers",
     description: "Covers web server concepts, security issues, and attack techniques including DoS/DDoS, DNS hijacking, DNS amplification, directory traversal, man-in-the-middle attacks, phishing, website defacement, and web cache poisoning. Explores both open-source (Apache, Nginx) and IIS architectures, plus web server hardening and defense strategies.",
     fileSize: "1.1 MB",
-    downloadUrl: "/pdfs/ceh-v10-module-13-hacking-web-servers.pdf"
+    downloadUrl: "https://files.catbox.moe/c2wwzj.pdf"
   },
   {
     id: "46",
     title: "CEH v10 Module 14: Hacking Web Applications",
     description: "Explores web application security including application architecture, OWASP Top 10 threats, unvalidated inputs, parameter tampering, SQL injection, XSS, CSRF, broken session management, buffer overflows, and security misconfiguration. Covers web application pentesting methodology, vulnerability scanning tools, and defense techniques.",
     fileSize: "768 KB",
-    downloadUrl: "/pdfs/ceh-v10-module-14-hacking-web-apps.pdf"
+    downloadUrl: "https://files.catbox.moe/9o3awq.pdf"
   },
   {
     id: "47",
