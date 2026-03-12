@@ -299,6 +299,11 @@ export const guideCategories: GuideCategory[] = [
     description: "Phone repair tutorials, PC troubleshooting flowcharts, and soldering basics."
   },
   {
+    id: "ai-pentesting",
+    name: "AI Pentesting",
+    description: "Cutting-edge guides on using AI for penetration testing, automation, and security research."
+  },
+  {
     id: "cybersecurity",
     name: "Cybersecurity",
     description: "Penetration testing guides, threat hunting, and security research resources."
@@ -946,6 +951,168 @@ export const pdfItems: PdfItem[] = [
     fileType: "PDF",
     fileSize: "0.3 MB",
     downloadUrl: "https://files.catbox.moe/s7jj1h.pdf"
+  },
+  {
+    id: "66",
+    title: "AI-Driven PDF Password Recovery with HexStrike-AI",
+    description: "Learn how to use HexStrike-AI and Gemini-CLI for automated PDF password recovery. By Andrey Pautov.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "1.6 MB",
+    downloadUrl: "https://files.catbox.moe/okatle.pdf"
+  },
+  {
+    id: "67",
+    title: "AI-Driven Pentesting at Home with HexStrike-AI",
+    description: "Complete guide to using HexStrike-AI for full network discovery and exploitation. By Andrey Pautov.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "1.2 MB",
+    downloadUrl: "https://files.catbox.moe/yv77yg.pdf"
+  },
+  {
+    id: "68",
+    title: "AI-Driven Web Application Pentesting with HexStrike-AI",
+    description: "Master web app pentesting with AI automation using HexStrike-AI. By Andrey Pautov.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "1.9 MB",
+    downloadUrl: "https://files.catbox.moe/1z0fq5.pdf"
+  },
+  {
+    id: "69",
+    title: "AI-Driven Wireless Penetration Testing",
+    description: "One-prompt WiFi cracking with HexStrike-AI. Learn AI-powered wireless pentesting techniques. By Andrey Pautov.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "1.9 MB",
+    downloadUrl: "https://files.catbox.moe/3tlttt.pdf"
+  },
+  {
+    id: "70",
+    title: "AI-Driven ZIP Password Recovery with HexStrike-AI",
+    description: "Automate ZIP password recovery using HexStrike-AI and Gemini-CLI. By Andrey Pautov.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "1.4 MB",
+    downloadUrl: "https://files.catbox.moe/n9cmcm.pdf"
+  },
+  {
+    id: "71",
+    title: "Android App Pentesting A to Z",
+    description: "Complete walkthrough of Android pentesting from start to finish. By Rishav Anand.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "4.5 MB",
+    downloadUrl: "https://files.catbox.moe/p0amvy.pdf"
+  },
+  {
+    id: "72",
+    title: "Android Pentesting - Static Analysis",
+    description: "Part 2 of Android pentesting series covering static analysis techniques. By PARADOX.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "2.8 MB",
+    downloadUrl: "https://files.catbox.moe/cfx680.pdf"
+  },
+  {
+    id: "73",
+    title: "API Pentesting: The Brutally Honest Guide",
+    description: "Real-world API security testing guide they don't teach you. By Sachin Kewat.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "4.2 MB",
+    downloadUrl: "https://files.catbox.moe/02ix2n.pdf"
+  },
+  {
+    id: "74",
+    title: "HexStrike AI Installation & MCP Configuration",
+    description: "Complete guide to installing and configuring HexStrike AI with MCP for Gemini, OpenAI, Cursor, and Llama. By Andrey Pautov.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "3.6 MB",
+    downloadUrl: "https://files.catbox.moe/zknq9s.pdf"
+  },
+  {
+    id: "75",
+    title: "HexStrike AI: The Future of Penetration Testing",
+    description: "Exploring how AI is revolutionizing the pentesting industry. By Pentester Club.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "0.4 MB",
+    downloadUrl: "https://files.catbox.moe/3hp3ua.pdf"
+  },
+  {
+    id: "76",
+    title: "How to Run Ollama on DigitalOcean",
+    description: "Step-by-step guide to deploying Ollama AI models on a DigitalOcean Droplet. By Amaresh Pelleti.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "0.3 MB",
+    downloadUrl: "https://files.catbox.moe/t5ag5z.pdf"
+  },
+  {
+    id: "77",
+    title: "AI Pentesting My Lab with HexStrike-AI",
+    description: "Real-world case study: pentesting a lab environment in 45 minutes with HexStrike AI and KALI MCP. By Vito Rallo.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "1.1 MB",
+    downloadUrl: "https://files.catbox.moe/4b0790.pdf"
+  },
+  {
+    id: "78",
+    title: "Top LlamaIndex and Ollama Courses",
+    description: "Review of 20+ Udemy courses for learning LlamaIndex and Ollama with top 7 recommendations for 2026. By Soma.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "2 MB",
+    downloadUrl: "https://files.catbox.moe/k80bcm.pdf"
+  },
+  {
+    id: "79",
+    title: "KinoSec.ai: #1 Black-Box Autonomous Pentesting",
+    description: "Analysis of KinoSec.ai as the world's top autonomous pentesting platform. By Alexis Lingad.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "5.3 MB",
+    downloadUrl: "https://files.catbox.moe/h6bslt.pdf"
+  },
+  {
+    id: "80",
+    title: "Mastering iOS Pentesting Part 2",
+    description: "Advanced iOS security testing covering shell access, file transfers, IPA signing, TrollStore, and decryption. By Faris Faisal.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "6.1 MB",
+    downloadUrl: "https://files.catbox.moe/ctkx2p.pdf"
+  },
+  {
+    id: "81",
+    title: "OpenClaw + Ollama: Local AI Agent",
+    description: "The AI agent that can actually run your computer for automation. By devtips.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "2.4 MB",
+    downloadUrl: "https://files.catbox.moe/addgkl.pdf"
+  },
+  {
+    id: "82",
+    title: "Run OpenClaw Locally with Ollama",
+    description: "Ultimate guide to running OpenClaw locally using Ollama. By proflead.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "1.2 MB",
+    downloadUrl: "https://files.catbox.moe/91kw55.pdf"
+  },
+  {
+    id: "83",
+    title: "Enrollment Guide 2025",
+    description: "Comprehensive enrollment guide for security certification programs.",
+    categoryId: "ai-pentesting",
+    fileType: "PDF",
+    fileSize: "1.3 MB",
+    downloadUrl: "https://files.catbox.moe/0h3bsf.pdf"
   }
 ];
 
