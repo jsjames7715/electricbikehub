@@ -304,6 +304,11 @@ export const guideCategories: GuideCategory[] = [
     description: "Cutting-edge guides on using AI for penetration testing, automation, and security research."
   },
   {
+    id: "ai-tools-hosting",
+    name: "AI Tools & Free Hosting",
+    description: "Guides on free AI coding tools, VPS hosting, and deploying LLMs."
+  },
+  {
     id: "cybersecurity",
     name: "Cybersecurity",
     description: "Penetration testing guides, threat hunting, and security research resources."
@@ -1113,6 +1118,213 @@ export const pdfItems: PdfItem[] = [
     fileType: "PDF",
     fileSize: "1.3 MB",
     downloadUrl: "https://files.catbox.moe/0h3bsf.pdf"
+  },
+  {
+    id: "84",
+    title: "7 Top Free AI Coding Tools in 2025",
+    description: "Overview of the best free AI coding assistants available in 2025. By Seekmeai.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.3 MB",
+    downloadUrl: "https://files.catbox.moe/yoawf2.pdf"
+  },
+  {
+    id: "85",
+    title: "Agentic Coding in Xcode 26.3",
+    description: "Deep dive into AI-powered coding features in Xcode for iOS developers. By Batikan Sosun.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.7 MB",
+    downloadUrl: "https://files.catbox.moe/irjm90.pdf"
+  },
+  {
+    id: "86",
+    title: "Fine-Tuning LLMs with HuggingFace",
+    description: "Practical guide to fine-tuning large language models using HuggingFace. By Yu-Cheng Tsai.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.9 MB",
+    downloadUrl: "https://files.catbox.moe/3bl9ln.pdf"
+  },
+  {
+    id: "87",
+    title: "Deploy Multimodal Models with vLLM on Runpod",
+    description: "Complete guide to deploying Huggingface multimodal models on Runpod serverless GPUs. By Aaditya Ura.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "1.5 MB",
+    downloadUrl: "https://files.catbox.moe/m7h9lw.pdf"
+  },
+  {
+    id: "88",
+    title: "Fine-Tuning 14B Model on Free Colab GPU",
+    description: "Learn to fine-tune large models on free Google Colab using Huggingface TRL. By Sonu Yadav.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.5 MB",
+    downloadUrl: "https://files.catbox.moe/undirl.pdf"
+  },
+  {
+    id: "89",
+    title: "Free AI Coding Assistant with Roo Code",
+    description: "Set up Roo Code with free LLM models for AI-assisted coding. By Rob Felix.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.5 MB",
+    downloadUrl: "https://files.catbox.moe/5qkatp.pdf"
+  },
+  {
+    id: "90",
+    title: "Free VPS - No Card Needed",
+    description: "Guide to getting free VPS hosting without credit card. By bektiaw.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.3 MB",
+    downloadUrl: "https://files.catbox.moe/v6vuxh.pdf"
+  },
+  {
+    id: "91",
+    title: "Free Web Hosting in Nepal 2026",
+    description: "List of free web hosting options available in Nepal. By Abisek.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.2 MB",
+    downloadUrl: "https://files.catbox.moe/onc5y6.pdf"
+  },
+  {
+    id: "92",
+    title: "Google Gemini CLI - Free AI Coding Agent",
+    description: "Google's new free AI coding agent that works from your terminal. By Vijai Gopal Veeramalla.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "1.2 MB",
+    downloadUrl: "https://files.catbox.moe/oqcki7.pdf"
+  },
+  {
+    id: "93",
+    title: "Google Stitch 2.0 - Free AI Coding Agent",
+    description: "Free AI coding agent from Google that can build anything. By Rogerio Amorim.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.3 MB",
+    downloadUrl: "https://files.catbox.moe/1s27aj.pdf"
+  },
+  {
+    id: "94",
+    title: "Hosting Open Source LLM on Google Colab",
+    description: "Deploy open source language models using Google Colaboratory. By Shivanshu Gupta.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.6 MB",
+    downloadUrl: "https://files.catbox.moe/163mp5.pdf"
+  },
+  {
+    id: "95",
+    title: "Code with AI for $0/Month in 2026",
+    description: "Guide to using AI for coding without monthly costs. By Code Pulse.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.5 MB",
+    downloadUrl: "https://files.catbox.moe/k1zkpb.pdf"
+  },
+  {
+    id: "96",
+    title: "Run Ministral 3B/8B with Ollama",
+    description: "Step-by-step guide to running Mistral models using Ollama and LangChain. By Md Monsur Ali.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.8 MB",
+    downloadUrl: "https://files.catbox.moe/058yu8.pdf"
+  },
+  {
+    id: "97",
+    title: "Google Jules - Free AI Coding Agent",
+    description: "Introducing Google's free AI coding agent. By Dr. Shouke Wei.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.4 MB",
+    downloadUrl: "https://files.catbox.moe/dhd4dm.pdf"
+  },
+  {
+    id: "98",
+    title: "Is Python Worth Learning in 2026",
+    description: "Data-driven analysis of Python's value in 2026 programming landscape. By Faisal Haque.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "2.1 MB",
+    downloadUrl: "https://files.catbox.moe/y1sbfm.pdf"
+  },
+  {
+    id: "99",
+    title: "Offline AI - Local LLM Setup",
+    description: "Complete guide to setting up offline AI with Ollama and GGUF models. By Amit Singh.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "3 MB",
+    downloadUrl: "https://files.catbox.moe/0thnko.pdf"
+  },
+  {
+    id: "100",
+    title: "Oracle Cloud Free VPS Setup",
+    description: "Ultimate guide to setting up always-free VPS with 4 OCPU, 24GB RAM on Oracle Cloud. By Vinojan Veerapathirathasan.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.8 MB",
+    downloadUrl: "https://files.catbox.moe/1d0ro6.pdf"
+  },
+  {
+    id: "101",
+    title: "Free AI APIs - HuggingFace Access",
+    description: "Access thousands of free AI models through HuggingFace in 30 minutes. By Dr. Ernesto Lee.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "4.2 MB",
+    downloadUrl: "https://files.catbox.moe/pe390i.pdf"
+  },
+  {
+    id: "102",
+    title: "Best Free AI Coding Tools vs Cursor",
+    description: "Compare free alternatives: Zed AI, Tabby AI, and other tools vs Cursor. By Daniel Ferrera.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "1.3 MB",
+    downloadUrl: "https://files.catbox.moe/ge2ras.pdf"
+  },
+  {
+    id: "103",
+    title: "Unlock Premium AI Tools for Free",
+    description: "How to access premium AI tools worth thousands for free (Perplexity Pro, HuggingFace, etc.). By Isuru Lakshan Ekanayaka.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.3 MB",
+    downloadUrl: "https://files.catbox.moe/p8o3ox.pdf"
+  },
+  {
+    id: "104",
+    title: "Lifetime Free Server Guide",
+    description: "Guide to getting unlimited possibilities with a lifetime free server. By Mirha Fatima.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.3 MB",
+    downloadUrl: "https://files.catbox.moe/u846xo.pdf"
+  },
+  {
+    id: "105",
+    title: "Monte Carlo Methods with Python",
+    description: "Learn how to predict the future using Python Monte Carlo simulations. By Tiago Monteiro.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "4.2 MB",
+    downloadUrl: "https://files.catbox.moe/vq39qc.pdf"
+  },
+  {
+    id: "106",
+    title: "Free RDP Hosting Services",
+    description: "Incredible free RDP hosting services you won't believe exist. By Panstag.",
+    categoryId: "ai-tools-hosting",
+    fileType: "PDF",
+    fileSize: "0.2 MB",
+    downloadUrl: "https://files.catbox.moe/n6l1aj.pdf"
   }
 ];
 
